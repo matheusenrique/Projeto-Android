@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Projeto final</string>
+    <string name="from_amount">From Amount</string>
+    <string name="to_amount">To Amount</string>
+    <string name="insira_um_valor">Insira um valor</string>
+    <string name="valor_convertido">Valor convertido</string>
+
+    <string-array name="currencies_array">
+
+        <item>INR</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>ZAR</item>
+        <item>NZD</item>
+        <item>JPY</item>
+        <item>SGD</item>
+        <item>CNY</item>
+        <item>CHF</item>
+        <item>MYR</item>
+        <item>HUF</item>
+        <item>HKD</item>
+        <item>THB</item>
+        <item>KRW</item>
+        <item>SEK</item>
+        <item>PHP</item>
+        <item>ILS</item>
+        <item>TRY</item>
+        <item>PLN</item>
+        <item>MXN</item>
+        <item>NOK</item>
+        <item>DKK</item>
+        <item>BRL</item>
+        <item>IDR</item>
+        <item>CZK</item>
+        <item>RUB</item>
+        <item>RON</item>
+        <item>BGN</item>
+        <item>ISK</item>
+
+    </string-array>
+
+    <string-array name="currencies2">
+
+        <item>USD</item>
+        <item>INR</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>ZAR</item>
+        <item>NZD</item>
+        <item>JPY</item>
+        <item>SGD</item>
+        <item>CNY</item>
+        <item>CHF</item>
+        <item>MYR</item>
+        <item>HUF</item>
+        <item>HKD</item>
+        <item>THB</item>
+        <item>KRW</item>
+        <item>SEK</item>
+        <item>PHP</item>
+        <item>ILS</item>
+        <item>TRY</item>
+        <item>PLN</item>
+        <item>MXN</item>
+        <item>NOK</item>
+        <item>DKK</item>
+        <item>BRL</item>
+        <item>IDR</item>
+        <item>CZK</item>
+        <item>RUB</item>
+        <item>RON</item>
+        <item>BGN</item>
+        <item>ISK</item>
+
+    </string-array>
+
+</resources>
